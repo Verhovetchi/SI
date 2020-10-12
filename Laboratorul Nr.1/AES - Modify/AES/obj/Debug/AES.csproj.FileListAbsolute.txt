@@ -1,0 +1,21 @@
+C:\Users\Daniel\Desktop\AES\AES\bin\Debug\AES.exe.config
+C:\Users\Daniel\Desktop\AES\AES\bin\Debug\AES.exe
+C:\Users\Daniel\Desktop\AES\AES\bin\Debug\AES.pdb
+C:\Users\Daniel\Desktop\AES\AES\obj\Debug\AES.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\AES\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\AES\AES\obj\Debug\AES.exe
+C:\Users\Daniel\Desktop\AES\AES\obj\Debug\AES.pdb
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES\AES\bin\Debug\AES.exe.config
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES\AES\bin\Debug\AES.exe
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES\AES\bin\Debug\AES.pdb
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES\AES\obj\Debug\AES.csprojAssemblyReference.cache
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES\AES\obj\Debug\AES.exe
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES\AES\obj\Debug\AES.pdb
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES - Modify\AES\bin\Debug\AES.exe.config
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES - Modify\AES\bin\Debug\AES.exe
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES - Modify\AES\bin\Debug\AES.pdb
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES - Modify\AES\obj\Debug\AES.csprojAssemblyReference.cache
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES - Modify\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES - Modify\AES\obj\Debug\AES.exe
+D:\Lucrari de laborator\Anul IV\Semestrul VII\Securitatea Informationala(SI)\Laboratorul Nr.1\AES - Modify\AES\obj\Debug\AES.pdb

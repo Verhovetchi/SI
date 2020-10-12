@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\RSAEncrypt\RSAEncrypt\bin\Debug\RSAEncrypt.exe.config
+C:\Users\Daniel\Desktop\RSAEncrypt\RSAEncrypt\bin\Debug\RSAEncrypt.exe
+C:\Users\Daniel\Desktop\RSAEncrypt\RSAEncrypt\bin\Debug\RSAEncrypt.pdb
+C:\Users\Daniel\Desktop\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.Form1.resources
+C:\Users\Daniel\Desktop\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.Properties.Resources.resources
+C:\Users\Daniel\Desktop\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.exe
+C:\Users\Daniel\Desktop\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.pdb
